@@ -6,7 +6,7 @@ A Binder-compatible repo that shows accessing data from remote sources.
 
 Access this Binder at the following URL:
 
-http://beta.mybinder.org/v2/gh/binder-examples/requirements/master
+http://beta.mybinder.org/v2/gh/binder-examples/remote_storage/master
 
 
 # Notes
