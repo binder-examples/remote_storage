@@ -9,7 +9,7 @@ Access this Binder at the following URL:
 http://beta.mybinder.org/v2/gh/binder-examples/remote_storage/master
 
 
-# Notes
+## Notes
 The notebooks use `boto` and `requests` to load both images and tables from S3.
 The image loading makes use of `PIL` and the table loading
 makes use of `pandas`.
