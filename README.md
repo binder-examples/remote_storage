@@ -1,4 +1,4 @@
-# Example Binder using remote storage
+# Remote Storage with Binder
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/remote_storage/master)
 
